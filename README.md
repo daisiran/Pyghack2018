@@ -8,6 +8,7 @@ https://public.tableau.com/views/FinalProduct/Story1?:embed=y&:display_count=yes
 
 Powerpoint slides discussing our results can be found in Deliverable.pdf
 
+We won the Grand Prize in Pyghack 2018! https://devpost.com/software/route-recommendation-using-real-time-fuel-prices
 # Setting up the environment 
 Run 
 conda env create -f environment.yml
