@@ -16,6 +16,11 @@ Result Page
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Website_Screenshot2.png?raw=true)
 
 ## Dashboards Screenshot
+Gas Station Analysis
+![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Dashboard%20screenshot1.png?raw=true)
+
+Vehicle Fueling Behavior
+![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Dashboard%20screenshot2.png?raw=true)
 
 # Setting up the environment 
 Run 
