@@ -19,10 +19,7 @@ Powerpoint slides discussing our results can be found in Deliverable.pdf
 #### Gas Station Analysis
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Dashboard%20screenshot1.png?raw=true)
 
-Vehicle Fueling Behavior
+#### Vehicle Fueling Behavior
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Dashboard%20screenshot2.png?raw=true)
 
-#### Setting up the environment 
-Run 
-conda env create -f environment.yml
 
