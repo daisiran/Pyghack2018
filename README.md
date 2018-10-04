@@ -9,9 +9,14 @@ https://public.tableau.com/views/FinalProduct/Story1?:embed=y&:display_count=yes
 Powerpoint slides discussing our results can be found in Deliverable.pdf
 
 ## Website Screenshot
-Start page
+Starting Page
 ![alt text](https://github.com/Moogen/Pyghack2018/blob/master/Website_screenshot1.png?raw=true)
+
+Result Page
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Website_Screenshot2.png?raw=true)
+
+## Dashboards Screenshot
+
 # Setting up the environment 
 Run 
 conda env create -f environment.yml
