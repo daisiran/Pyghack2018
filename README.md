@@ -9,20 +9,20 @@ https://public.tableau.com/views/FinalProduct/Story1?:embed=y&:display_count=yes
 Powerpoint slides discussing our results can be found in Deliverable.pdf
 
 ## Website Screenshot
-Starting Page
+#### Starting Page
 ![alt text](https://github.com/Moogen/Pyghack2018/blob/master/Website_screenshot1.png?raw=true)
 
-Result Page
+#### Result Page
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Website_Screenshot2.png?raw=true)
 
 ## Dashboards Screenshot
-Gas Station Analysis
+#### Gas Station Analysis
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Dashboard%20screenshot1.png?raw=true)
 
 Vehicle Fueling Behavior
 ![alt_text](https://github.com/Moogen/Pyghack2018/blob/master/Dashboard%20screenshot2.png?raw=true)
 
-# Setting up the environment 
+#### Setting up the environment 
 Run 
 conda env create -f environment.yml
 
